@@ -1,0 +1,7 @@
+README.md
+setup.py
+deepAttention.egg-info/PKG-INFO
+deepAttention.egg-info/SOURCES.txt
+deepAttention.egg-info/dependency_links.txt
+deepAttention.egg-info/requires.txt
+deepAttention.egg-info/top_level.txt
