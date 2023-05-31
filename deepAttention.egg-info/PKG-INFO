@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: deepAttention
 Version: 0.1.0
-Summary: A Python package for...
-Home-page: https://github.com/yourusername/deepAttention
-Author: Your Name
-Author-email: your.email@example.com
+Summary: A Python package for single-target multi-class classification
+Home-page: https://github.com/vmercel/deepAttention
+Author: Mercel Vubangsi
+Author-email: vmercel@outlook.fr
 License: UNKNOWN
 Description: # Package Name
         
